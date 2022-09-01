@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1200,
+      "createdAt": "2022-08-12T03:00:00Z"
+    },
+    {
+      "id": 2,
+      "description": "Almoço saldavel",
+      "type": "outcome",
+      "category": "Despesa",
+      "price": 60,
+      "createdAt": "2022-08-01T03:00:00Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignote Rocktseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 169,
+      "createdAt": "2022-08-16T03:00:00Z"
+    },
+    {
+      "category": "Venda",
+      "description": "Desenvolvimento de app",
+      "price": 1000,
+      "type": "income",
+      "createdAt": "2022-08-30T09:14:06.886Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "category": "Alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2022-08-30T09:33:16.431Z",
+      "id": 5
+    },
+    {
+      "description": "Venda de equipamentos",
+      "category": "Venda",
+      "price": 350,
+      "type": "income",
+      "createdAt": "2022-09-01T09:31:28.419Z",
+      "id": 6
+    },
+    {
+      "description": "Venda de Computador",
+      "category": "Venda",
+      "price": 500,
+      "type": "income",
+      "createdAt": "2022-09-01T09:32:11.540Z",
+      "id": 7
+    }
+  ]
+}
